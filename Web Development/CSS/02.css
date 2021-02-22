@@ -1,0 +1,10 @@
+body
+		{
+			background:lightblue;
+		}
+		h2{
+			text-decoration: line-through;
+		}
+		h3{
+			text-decoration: underline;
+		}
